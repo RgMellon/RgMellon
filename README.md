@@ -1,53 +1,38 @@
-Olá, seja bem-vindo ao meu perfil! 👋
+# Olá, seja bem-vindo ao meu perfil! 👋
 
-Sou um desenvolvedor com mais de 10 anos de experiência na área, apaixonado por tecnologia e por criar soluções que fazem a diferença. Minha trajetória é marcada por uma ampla atuação em diversas frentes do desenvolvimento, tanto no front-end quanto no back-end.
+Sou um desenvolvedor com mais de **10 anos de experiência** na área, apaixonado por tecnologia e por criar soluções que fazem a diferença.
 
-🚀 Minhas Especialidades
+---
 
-🖥️ Front-End
+## 🚀 Tecnologias que Amo Trabalhar
 
-Linguagem: JavaScript (minha principal linguagem de atuação).
+| **Front-End**          | **Back-End**       | **Mobile**           |
+|------------------------|--------------------|----------------------|
+| JavaScript, HTML, CSS  | Node.js, NestJS    | React Native         |
+| Next.js, React, Vue.js | Java (Spring Boot) |                      |
 
-Frameworks: Next.js, React, Vue.js.
+---
 
-Outras Tecnologias: HTML, CSS e tudo que envolve a construção de interfaces modernas e responsivas.
+## 📱 Experiência Mobile
 
-🛠️ Back-End
+Nos últimos **6 anos**, foquei no desenvolvimento de aplicativos com **React Native**, criando experiências incríveis para os usuários. Recentemente, estou expandindo meu foco para o back-end, mas continuo com forte conhecimento no mundo mobile.
 
-Node.js: Utilizo para criar APIs robustas e escaláveis.
+---
 
-NestJS: Meu framework preferido para desenvolvimento back-end estruturado.
+## 🌟 Sobre Mim
 
-Java com Spring Boot: Estou atuando com Java há 8 meses, utilizando o Spring Boot para aplicações empresariais e serviços.
+🎯 Sou movido por desafios e adoro aprender coisas novas! Tenho uma visão ampla do desenvolvimento de software, transitando com facilidade entre front-end, back-end e mobile.
 
-📱 Mobile
+🎥 **Tenho um canal no YouTube!**
+Onde compartilho dicas de desenvolvimento e projetos para a comunidade tech. [Clique aqui para conferir!](link_do_canal_aqui)
 
-Nos últimos 6 anos, atuei predominantemente com React Native, desenvolvendo aplicativos móveis para diversas plataformas e entregando experiências incríveis para os usuários.
+---
 
-Recentemente, estou expandindo meu foco para o back-end, mas continuo com forte conhecimento no mundo mobile.
+## 📫 Vamos Conversar?
 
-💼 Experiência Profissional
+Sinta-se à vontade para me chamar para trocar ideias ou colaborar em projetos. Será um prazer compartilhar conhecimento e aprender juntos! 😄
 
-Ao longo dos anos, trabalhei em diferentes projetos, adquirindo habilidades em diversas áreas do desenvolvimento. Minha experiência me permite:
+---
 
-Criar interfaces ricas e intuitivas para os usuários.
-
-Desenvolver back-ends eficientes e seguros.
-
-Contribuir para projetos mobile complexos com React Native.
-
-🌟 Sobre Mim
-
-Sou movido por desafios e adoro aprender coisas novas! Tenho uma visão ampla do desenvolvimento de software, o que me permite transitar com facilidade entre front-end, back-end e mobile.
-
-Além disso, adoro compartilhar conhecimento! Tenho um canal no YouTube onde publico dicas de desenvolvimento e projetos. Dá uma olhada no meu canal e confira o conteúdo que criei para a comunidade tech. Meu Canal no YouTube
-
-Quando não estou programando, gosto de explorar novas tecnologias, ajudar a comunidade tech e me manter atualizado com as tendências do mercado.
-
-📫 Vamos Conversar?
-
-Se você quiser trocar uma ideia ou colaborar em projetos, sinta-se à vontade para entrar em contato! 😄
-https://www.linkedin.com/in/renan-g-melo/
-
-Obrigado por visitar meu perfil! ✨
+### Obrigado por visitar meu perfil! ✨
 
