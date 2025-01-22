@@ -24,13 +24,14 @@ Nos últimos **6 anos**, foquei no desenvolvimento de aplicativos com **React Na
 🎯 Sou movido por desafios e adoro aprender coisas novas! Tenho uma visão ampla do desenvolvimento de software, transitando com facilidade entre front-end, back-end e mobile.
 
 🎥 **Tenho um canal no YouTube!**
-Onde compartilho dicas de desenvolvimento e projetos para a comunidade tech. [Clique aqui para conferir!](link_do_canal_aqui)
+Onde compartilho dicas de desenvolvimento e projetos para a comunidade tech. [Clique aqui para conferir!](https://www.youtube.com/@cantodocodigo)
 
 ---
 
 ## 📫 Vamos Conversar?
 
 Sinta-se à vontade para me chamar para trocar ideias ou colaborar em projetos. Será um prazer compartilhar conhecimento e aprender juntos! 😄
+ [Clique para falar comigo](https://www.linkedin.com/in/renan-g-melo/) 
 
 ---
 
