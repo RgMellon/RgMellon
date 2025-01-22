@@ -47,6 +47,7 @@ Quando não estou programando, gosto de explorar novas tecnologias, ajudar a com
 📫 Vamos Conversar?
 
 Se você quiser trocar uma ideia ou colaborar em projetos, sinta-se à vontade para entrar em contato! 😄
+https://www.linkedin.com/in/renan-g-melo/
 
 Obrigado por visitar meu perfil! ✨
 
